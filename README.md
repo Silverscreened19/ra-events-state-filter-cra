@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8w4r8w1mg0o82mpt?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-events-state-filter)
+[![Build status](https://ci.appveyor.com/api/projects/status/goll4mcjn4horx8a?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-events-state-filter-cra)
 
 Портфолио с фильтрами
 ===
